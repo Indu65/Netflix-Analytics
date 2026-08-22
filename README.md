@@ -1,16 +1,12 @@
 # 🎬 Netflix Movies & TV Shows Analytics Dashboard
 
-![Netflix Dashboard Concept](https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?auto=format&fit=crop&q=80&w=1200&h=400)
-
-*(Replace the image above with a screenshot of your live dashboard!)*
+![Netflix Dashboard Overview](public/netflix_dashboard_preview.jpg)
 
 ## 📌 Executive Summary
 This project is an advanced, premium, and highly interactive **Netflix Analytics Dashboard** built from scratch using React and Vite. It features a cinematic dark UI with a vibrant multi-color palette. The application dynamically parses raw Netflix CSV data and calculates complex business metrics on the fly, rendering stunning visualizations without relying on proprietary BI tools.
 
 ## 📸 Dashboard Screenshots
-*(Add your screenshots here! Take a screenshot of the running app and replace this text)*
-- **Overview:** `![Overview](path_to_image)`
-- **Interactive Charts:** `![Charts](path_to_image)`
+- **Overview:** `![Dashboard Overview](public/netflix_dashboard_preview.jpg)`
 
 ## 🎯 Business Questions Answered
 - **Growth Over Time:** How has Netflix’s library expanded year-over-year? (Area Chart)
